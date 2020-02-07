@@ -1,0 +1,27 @@
+# Misc stuff to look up
+- bash interactive shell
+- /dev/tcp/
+- dhclient
+- ip
+- ifup
+- ifdown
+- /etc/init.d/
+- netcat
+- spanning trees
+- raw pointers
+- raw types
+- lambdas and streams
+- min heap and max heap
+- breadth vs depth first
+- hashtable
+- hashmap
+- abstract syntax trees
+- adjacency matrix
+- graphs
+- trees
+- map reduce filter javascript
+- tail recursion
+- dijkstra's algorithm
+- a* pathfinding
+- tries
+- topological sort
