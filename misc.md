@@ -18,10 +18,27 @@
 - abstract syntax trees
 - adjacency matrix
 - graphs
-- trees
 - map reduce filter javascript
 - tail recursion
 - dijkstra's algorithm
 - a* pathfinding
 - tries
 - topological sort
+- dependency injection
+- undefined behavior
+- mixins
+- buffer overflows
+- docker
+- kubernetes
+- ansible
+- purely functional data structures
+- iterator invalidation
+- generators
+- parse tree traversal
+- semantic analysis/tokenization
+- disassembly
+- linux security modules
+- mandatory access control
+- dns steganography
+- convolutional neural networks
+- naive bayes classifiers
